@@ -39,6 +39,28 @@ Finally, as you continue to navigate the file directory from the command line it
 
 # Cloning github repos and Learn.co lessons
 
-Now that you can navigate the file directory using the command line, you're ready to download some course materials from the web to your local environment. Create a folder on your computer for your course materials and navigate into it. Then create a subfolder titled "Day1" (or something similar) and navigate into that.
+Now that you can navigate the file directory using the command line, you're ready to download some course materials from the web to your local environment.  
 
-On the learn.co website click the github icon on any lesson, and you will be redirected to that lesson's github repository where the lesson is stored.
+* Create a folder on your computer for your course materials and navigate into it. 
+* Then create a subfolder titled "Day1" (or something similar) and navigate into that.
+
+* Return to your web browser and navigate to the lesson you want to download.
+* Click the github icon
+
+<img src="Learn_Github_Logo.png">
+
+You'll be redirected to the associated github repository like this.  
+* **Click the fork button**, as shown in order to create a copy to your personal account which you can edit and update.
+<img src="Github_Fork_Button.png">
+
+After a moment of this:
+<img src="Github_Forking_In_Progress.png" width=350>
+You'll be redirected to your new personal copy of the repository:
+<img src="Forked_Github_Page.png" width=700>
+## Finally: 
+* Press cmd+L to highlight the url bar and cmd+v to copy the url
+* Return to terminal (you should be in your "Day1" folder)
+* Type: **git clone** and paste your repo url (**cmd + v**)
+
+### Voila!  
+#### The repository and all of its contents will be downloaded locally to your computer!
