@@ -58,7 +58,7 @@ After a moment of this:
 You'll be redirected to your new personal copy of the repository:
 <img src="Forked_Github_Page.png" width=700>
 ## Finally: 
-* Press cmd+L to highlight the url bar and cmd+v to copy the url
+* Press cmd+L to highlight the url bar and **cmd+c** to copy the url
 * Return to terminal (you should be in your "Day1" folder)
 * Type: **git clone** and paste your repo url (**cmd + v**)
 
